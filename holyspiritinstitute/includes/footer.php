@@ -1,0 +1,1 @@
+</main><footer class="footer">© <?=date('Y')?> Holy Spirit Institute · Margao, Goa</footer></body></html>

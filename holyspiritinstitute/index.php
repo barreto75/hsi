@@ -1,0 +1,4 @@
+<?php require_once __DIR__.'/includes/functions.php';$pageTitle='Home';$base='';require __DIR__.'/includes/header.php';?>
+<section class="hero"><div class="container"><h1>Holy Spirit Institute</h1><p>Margao, Goa — Empowering Students Through Knowledge, Character and Excellence.</p><a class="btn" href="login.php">Student Login</a> <a class="btn secondary" href="login.php">Parent Login</a></div></section>
+<div class="container"><div class="grid"><div class="card"><h3>Quality Education</h3><p class="muted">Strong academic foundations.</p></div><div class="card"><h3>Experienced Teachers</h3><p class="muted">Dedicated educators.</p></div><div class="card"><h3>Student Development</h3><p class="muted">Confidence and character.</p></div><div class="card"><h3>Academic Excellence</h3><p class="muted">Transparent academic tracking.</p></div></div></div>
+<?php require __DIR__.'/includes/footer.php';?>
